@@ -1,0 +1,21 @@
+{
+  "name": "technology-innovation-team1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utsavaverma/save-it-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "react-bootstrap": "^2.2.2"
+  }
+}

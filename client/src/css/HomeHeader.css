@@ -1,0 +1,14 @@
+/*styling class for Testhome component*/
+
+.homenav{
+    background-color: black;
+    color: white;
+    border-color: black;
+    
+}
+
+.navheader{
+    margin-left: 145%;
+    
+}
+

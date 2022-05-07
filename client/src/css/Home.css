@@ -1,0 +1,13 @@
+/*styling class for Home component*/
+
+#homeimage{
+    width: 100%;
+}
+
+#homenavigation{
+    padding-left: 37%;
+}
+
+#homeheader{
+    color: darkcyan;
+}

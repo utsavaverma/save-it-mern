@@ -1,0 +1,25 @@
+/*styling class for Testhomeback component*/
+
+#homeimage1{
+    width: 100%;
+}
+
+
+.words{
+    padding-top: 12%;
+    padding-left: 10%;
+}
+
+#aboutus{
+    padding-top: 15%;
+    padding-left: 10%;
+}
+
+.top{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200%;
+    padding-bottom: 15%;
+    width: 100%;
+    
+}
